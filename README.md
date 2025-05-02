@@ -46,8 +46,8 @@
 <ol>
   <li><strong>Clone the repository:</strong></li>
 
-<pre><code>git clone https://github.com/your-username/django-payment-gateway-stripe.git
-cd django-payment-gateway-stripe</code></pre>
+<pre><code>git clone https://github.com/shahidmalik630786/payment_gateway_stripe.git
+cd payment_gateway_stripe</code></pre>
 
   <li><strong>Set up a virtual environment:</strong></li>
 
